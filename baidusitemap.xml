@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+
+
+    
   <url>
     <loc>http://yoursite.com/2017/09/11/hello-world/</loc>
-    
     <lastmod>2017-09-11T02:16:17.537Z</lastmod>
-    
-  </url>
-  
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-09-11T02:16:17.537Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
 </urlset>
